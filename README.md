@@ -34,13 +34,13 @@ Log and monitor client connections.
 Reflect on defense techniques against such attacks.<br>
 ______________________________________________________________________<br>
 <br><img width="25" height="25" alt="" src="https://github.com/user-attachments/assets/1add1cac-b4d2-403a-acec-073fa03f134b" />
-Tools & Environment (I'll show you explicitly what I had available)<br>
+Tools & Environment 
 
-Raspberry Pi Zero 2 W with Parrot OS
+Raspberry Pi or any Linux system (Parrot OS or Kali Linux recommended)
 
-External USB Wi-Fi adapter (BrosTrend AC650)
+External USB Wi-Fi adapter that supports monitor mode and packet injection
 
--> Note that you get a Wi-Fi adapter that is compatible with your OS. I couldn't get one that works with Kali Linux, otherwise I would recommend using Kali.
+-> Note that you have to get a Wi-Fi adapter that is compatible with your OS. I couldn't get one that works with Kali Linux, otherwise I would recommend using Kali.
 
 Tools: airmon-ng, airodump-ng, hostapd, dnsmasq, iptables, apache2
 
