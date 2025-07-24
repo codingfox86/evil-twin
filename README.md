@@ -1,6 +1,6 @@
 <img width="35" height="35" alt="" src="https://github.com/user-attachments/assets/cac505b8-347f-4980-b9fd-e8b46e978f4a" />
 
-How to set up and simulate an Evil Twin attack on a Raspberry Pi for educational purposes.<br>
+How to set up and simulate an Evil Twin attack with a Raspberry Pi for educational purposes.<br>
 
 Introduction
 
