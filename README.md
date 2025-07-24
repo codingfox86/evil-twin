@@ -36,7 +36,10 @@ ______________________________________________________________________<br>
 <br><img width="25" height="25" alt="" src="https://github.com/user-attachments/assets/1add1cac-b4d2-403a-acec-073fa03f134b" />
 Tools & Environment (I'll show you explicitly what I had available)<br>
 
-Raspberry Pi Zero 2 W with Parrot OS and External USB Wi-Fi adapter (BrosTrend AC650)<br>
+Raspberry Pi Zero 2 W with Parrot OS
+
+External USB Wi-Fi adapter (BrosTrend AC650)
+
 -> Note that you get a Wi-Fi adapter that is compatible with your OS. I couldn't get one that works with Kali Linux, otherwise I would recommend using Kali.
 
 Tools: airmon-ng, airodump-ng, hostapd, dnsmasq, iptables, apache2
