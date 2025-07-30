@@ -9,7 +9,7 @@ This project demonstrates how to simulate an Evil Twin attack in a controlled, e
 
 -> Understand how Evil Twin attacks work in practice.
 
--> Learn how to configure a rogue AP using tools like hostapd, dnsmasq, and apache2.
+-> Learn how to configure a rogue AP using airgeddon.
 
 -> Simulate a credential capture scenario using a fake captive portal.
 
@@ -41,7 +41,7 @@ External USB Wi-Fi adapter that supports monitor mode and packet injection
 
 -> Note that you have to get a Wi-Fi adapter that is compatible with your OS. I couldn't get one that works with Kali Linux, otherwise I would recommend using Kali.
 
-Tools: airmon-ng, airodump-ng, hostapd, dnsmasq, iptables, apache2
+Tools: aigeddon.
 
 SSH connection (optional but I always use SSH for easier handling)
 
