@@ -1,4 +1,4 @@
-What you need to do before you can start setting your rogue AP up
+<h3>What you need to do before you can start setting up your rogue AP </h3>
 
 --> Note: Since there were not many available Wi-Fi adapters and none of these compatible with Kali Linux, I've gone with this setup: <br>
     Raspberry Pi 4B with 4GB RAM (minimum including 32GB SD-Card, HDMI adapter and power supply) <br>
