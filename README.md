@@ -2,7 +2,6 @@
 
 This is my documentation on how to set up and simulate an Evil Twin attack with a Raspberry Pi for educational purposes.<br>
 
-Introduction
 
 An Evil Twin attack is a type of Wi-Fi phishing attack where a hacker sets up a rogue access point (AP) that mimics a legitimate wireless network. The goal is to trick users into connecting to the fake AP, allowing the attacker to intercept sensitive information such as login credentials or session cookies.
 
