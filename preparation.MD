@@ -4,14 +4,14 @@
     Raspberry Pi 4B with 4GB RAM (including 32GB SD-Card, HDMI adapter and power supply) <br>
     Parrot OS 64bit security version (https://deb.parrot.sh/parrot/iso/6.4/Parrot-security-6.4_rpi.img.xz) <br>
     WiFi-Adapter BrosTrend AC650 <br>
-If you're more up for working with Kali Linux, feel free to do so!<br>
+If you're more up for working with Kali Linux, feel free to do so!
 <br>
 1. Download Raspberry Pi Imager for your OS -> https://www.raspberrypi.com/software/
 <br>
 2. Install Parrot or Kali on the SD (on your local workstation) for the Raspberry Pi: <br>
     Choose your model, OS and SD-card. Some OS are ready to choose from the imager. If you like your own downloaded OS, you can always choose "own image" in the drop down menu. I recommend modifying the configuration to your home WiFi and if possible, enable SSH.  <br> 
     <br>
-3. Put your Raspberry together and start it for the first time! Use a monitor for better view (although I connected only via SSH in the beginning I encountered some difficulties that only occured there). <br>
+3. Put your Raspberry together and start it for the first time! Use a monitor for better view (I connected only via SSH in the beginning and encountered some difficulties that only occured there). <br>
 <br>
 4. The credentials for the first login are often: <br>
     -user: pi <br>
