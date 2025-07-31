@@ -5,8 +5,8 @@
     Parrot OS 64bit security version (https://deb.parrot.sh/parrot/iso/6.4/Parrot-security-6.4_rpi.img.xz) <br>
     WiFi-Adapter BrosTrend AC650 <br>
 If you're more up for working with Kali Linux, feel free to do so!<br>
-<br><br>
-1. Download Raspberry Pi Imager for your OS -> https://www.raspberrypi.com/software/ <br>
+<br>
+1. Download Raspberry Pi Imager for your OS -> https://www.raspberrypi.com/software/
 <br>
 2. Install Parrot or Kali on the SD (on your local workstation) for the Raspberry Pi: <br>
     Choose your model, OS and SD-card. Some OS are ready to choose from the imager. If you like your own downloaded OS, you can always choose "own image" in the drop down menu. I recommend modifying the configuration to your home WiFi and if possible, enable SSH.  <br> 
