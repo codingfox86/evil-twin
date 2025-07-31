@@ -27,8 +27,7 @@ Check your default -> <i>sudo systemctl get-default</i><br>
 Is it <i>multi-user.target</i>? <br>
 Change it! <i>sudo systemctl set-default graphical.target</i> and after <i>sudo reboot</i> it should boot into the GUI.<br>
 <br>
-Plug your external WiFi Adapter in. Check if youre system recognizes it with: <i>lsusb</i><br>
-Install the software!
-
-
+Plug your external WiFi Adapter in. Check if your system recognizes it with: <i>lsusb</i><br>
+Install the software! <br>
+<br>
 <b>YOU ARE READY TO GO!</b>
