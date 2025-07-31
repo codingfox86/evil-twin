@@ -22,6 +22,7 @@ First thing to do: <i>sudo apt update && sudo apt upgrade</i><br>
 If you're not connected to your WiFi:<br>
     - <i>ip addr show</i> -> look for your Pi-internal WiFi (for mine it's wlan0)<br>
     - connect to it -> <i>nmcli device wifi connect "SSID" password "password" ifname wlan0</i><br>
+Keep your project organized! Create a directory and some subdirectories. I use this structure: <i>mkdir -p ~/evil-twin/{configs,scripts,logs,pcap,portal}</i> <br>
 You'd rather work within the GUI and not only CLI? <br>
 Check your default -> <i>sudo systemctl get-default</i><br>
 Is it <i>multi-user.target</i>? <br>
