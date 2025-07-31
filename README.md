@@ -41,7 +41,7 @@ External USB Wi-Fi adapter that supports monitor mode and packet injection
 
 -> Note that you have to get a Wi-Fi adapter that is compatible with your OS. I couldn't get one that works with Kali Linux, otherwise I would recommend using Kali.
 
-Tools: aigeddon.
+Tools: airgeddon.
 
 SSH connection (optional but I always use SSH for easier handling)
 
